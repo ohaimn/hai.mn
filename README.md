@@ -16,7 +16,7 @@ Invites: http://slack.mnphp.org/
 
 Slack: javascript-mn.slack.com
 Invite site: http://javascriptmn-slack.herokuapp.com/
-To get invite code: Join the []JavascriptMN meetup group](http://www.meetup.com/JavaScriptMN/) and you will be emailed a code.
+To get invite code: Join the [JavascriptMN meetup group](http://www.meetup.com/JavaScriptMN/) and you will be emailed a code.
 
 
 **AngularMN**
@@ -27,4 +27,3 @@ Slack:
 
 Slack: https://mnux.slack.com/
 Invite: email scherf.ryan@gmail.com
-# hai.mn
